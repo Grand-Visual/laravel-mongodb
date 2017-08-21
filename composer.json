@@ -1,5 +1,5 @@
 {
-    "name": "jenssegers/mongodb",
+    "name": "grandvisual/mongodb",
     "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
     "keywords": ["laravel","eloquent","mongodb","mongo","database","model","moloquent"],
     "homepage": "https://github.com/jenssegers/laravel-mongodb",
@@ -7,6 +7,10 @@
         {
             "name": "Jens Segers",
             "homepage": "https://jenssegers.com"
+        },
+        {
+            "name": "Michael Farrance",
+            "email": "michael.farrance@grandvisual.com"
         }
     ],
     "license" : "MIT",
