@@ -1,5 +1,5 @@
 {
-    "name": "grandvisual/mongodb",
+    "name": "grandvisual/laravel-mongodb",
     "description": "Freddie's MongoDB branch",
     "keywords": ["laravel","eloquent","mongodb","mongo","database","model","moloquent"],
     "homepage": "https://github.com/jenssegers/laravel-mongodb",
