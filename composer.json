@@ -1,5 +1,5 @@
 {
-    "name": "jenssegers/mongodb",
+    "name": "grandvisual/mongodb",
     "description": "Freddie's MongoDB branch",
     "keywords": ["laravel","eloquent","mongodb","mongo","database","model","moloquent"],
     "homepage": "https://github.com/jenssegers/laravel-mongodb",
@@ -7,6 +7,14 @@
         {
             "name": "Freddie Line",
             "homepage": "http://grandvisual.com/"
+        },
+        {
+            "name": "Jens Segers",
+            "homepage": "https://jenssegers.com"
+        },
+        {
+            "name": "Michael Farrance",
+            "email": "michael.farrance@grandvisual.com"
         }
     ],
     "license" : "MIT",
