@@ -11,7 +11,7 @@ class PasswordBrokerManager extends BasePasswordBrokerManager
     {
         return new DatabaseTokenRepository(
             $this->app['db']->connection(),
-            new \Illuminate\Hashing\BcryptHasher,
+            $this->app['hash'],
             $config['table'],
             $this->app['config']['app.key'],
             $config['expire']
